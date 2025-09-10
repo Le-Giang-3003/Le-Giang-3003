@@ -7,3 +7,4 @@
 🎮 In my free time, I love playing video games — feel free to connect with me on **[Steam](https://steamcommunity.com/id/76561199210962425)**!  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Le-Giang-3003)](https://github.com/Le-Giang-3003/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Le-Giang-3003&show_icons=true&theme=dracula)
