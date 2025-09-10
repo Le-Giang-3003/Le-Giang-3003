@@ -1,5 +1,5 @@
 # 🤍 Hi, I'm Lê Giang:
-🌱 I’m currently studying **Software Engineering** at FPT University, Ho Chi Minh.  <br>💻 I mainly work with **.NET / C#**, and I enjoy building applications with clean architecture and good practices.  <br><br>👯 I’m looking to collaborate on **.NET projects** and open-source contributions.  <br>🎮 In my free time, I love playing video games — feel free to connect with me on **[Steam](https://steamcommunity.com/id/76561199210962425)**!  
+🌱 I’m currently studying **Software Engineering** at FPT University, Ho Chi Minh.  <br>💻 I mainly work with **.NET / C#**, and I enjoy building applications with clean architecture and good practices.  <br><br>👯 I’m looking to collaborate on **.NET projects** and open-source contributions.  <br>🎮 In my free time, I love playing video games — feel free to connect with me on **[Steam](https://steamcommunity.com/profiles/76561199210962425/)**!  
 
 
 ## 🌐 Socials:
